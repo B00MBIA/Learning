@@ -1,0 +1,1 @@
+{{-- Gallery partner-specific --}}

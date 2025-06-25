@@ -1,0 +1,1 @@
+{{-- Liệt kê các loại phòng thuộc khách sạn đã chọn --}}

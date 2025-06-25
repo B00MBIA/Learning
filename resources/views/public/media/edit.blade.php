@@ -1,0 +1,1 @@
+{{-- Chỉnh sửa thuộc tính media (caption, alt text) --}}

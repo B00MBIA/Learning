@@ -1,0 +1,1 @@
+{{-- Thông báo booking thất bại / lỗi thanh toán --}}

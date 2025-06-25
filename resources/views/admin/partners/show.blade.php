@@ -1,0 +1,1 @@
+{{-- Chi tiết partner, hotels của họ --}}

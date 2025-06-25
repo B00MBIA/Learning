@@ -1,0 +1,1 @@
+{{-- Chi tiết khách sạn, bookings, reviews --}}

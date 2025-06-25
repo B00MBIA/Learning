@@ -1,0 +1,1 @@
+{{-- Hiển thị danh sách khách sạn với filter (địa điểm, giá, tiện nghi) --}}

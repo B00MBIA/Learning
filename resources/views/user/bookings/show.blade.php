@@ -1,0 +1,1 @@
+{{-- Chi tiết booking (chi tiết phòng, ngày, giá) --}}

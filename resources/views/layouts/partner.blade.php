@@ -1,0 +1,1 @@
+{{-- Layout dashboard partner: sidebar partner, header thông báo --}}

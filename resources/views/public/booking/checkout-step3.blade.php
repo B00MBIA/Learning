@@ -1,0 +1,1 @@
+{{-- Bước 3: chọn phương thức thanh toán, áp dụng khuyến mãi --}}

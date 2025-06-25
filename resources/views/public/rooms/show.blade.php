@@ -1,0 +1,1 @@
+{{-- Chi tiết phòng: ảnh, mô tả, chính sách hủy, tiện ích --}}

@@ -1,0 +1,1 @@
+{{-- Hiển thị spinner/loading trong quá trình xử lý --}}

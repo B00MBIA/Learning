@@ -1,0 +1,1 @@
+{{-- DS đánh giá khách gửi cho hotels --}}

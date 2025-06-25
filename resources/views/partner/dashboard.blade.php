@@ -1,0 +1,1 @@
+{{-- Thống kê booking, occupancy, doanh thu --}}

@@ -1,0 +1,1 @@
+{{-- Form nhập email để lấy link reset --}}

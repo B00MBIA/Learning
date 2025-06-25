@@ -1,0 +1,1 @@
+{{-- Tạo phòng cho khách sạn --}}

@@ -1,0 +1,1 @@
+{{-- Giỏ đặt phòng: tạm giữ lựa chọn trước khi thanh toán --}}

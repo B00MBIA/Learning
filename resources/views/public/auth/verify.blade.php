@@ -1,0 +1,1 @@
+{{-- Trang thông báo yêu cầu xác thực email --}}

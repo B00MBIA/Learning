@@ -1,0 +1,1 @@
+{{-- Trang chi tiết khách sạn: gallery ảnh, mô tả, đánh giá, bản đồ --}}

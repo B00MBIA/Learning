@@ -1,0 +1,1 @@
+{{-- Danh sách khách sạn/ phòng yêu thích --}}

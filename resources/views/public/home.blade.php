@@ -1,0 +1,1 @@
+{{-- Trang chủ hiển thị banner, giới thiệu, links tới tính năng tìm kiếm --}}

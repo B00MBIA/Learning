@@ -1,0 +1,1 @@
+{{-- Layout chung cho trang public: bao gồm header, footer, load CSS/JS --}}

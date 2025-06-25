@@ -1,0 +1,1 @@
+{{-- Thông báo hệ thống dành cho partner --}}

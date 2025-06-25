@@ -1,0 +1,1 @@
+{{-- DS rooms của từng hotel --}}

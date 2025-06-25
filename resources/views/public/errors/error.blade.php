@@ -1,0 +1,1 @@
+{{-- Trang chung hiển thị thông báo lỗi khác --}}

@@ -1,0 +1,1 @@
+{{-- Quản lý tất cả hotels trên hệ thống --}}

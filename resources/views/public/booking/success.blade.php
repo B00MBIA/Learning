@@ -1,0 +1,1 @@
+{{-- Trang thông báo booking thành công (kèm email xác nhận) --}}

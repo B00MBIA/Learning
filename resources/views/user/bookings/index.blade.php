@@ -1,0 +1,1 @@
+{{-- Lịch sử booking: pending, confirmed, cancelled --}}

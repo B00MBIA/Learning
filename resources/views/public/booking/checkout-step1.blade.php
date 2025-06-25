@@ -1,0 +1,1 @@
+{{-- Bước 1: xác nhận phòng, ngày check-in/check-out --}}

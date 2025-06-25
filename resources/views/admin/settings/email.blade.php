@@ -1,0 +1,1 @@
+{{-- Cấu hình template email, SMTP --}}

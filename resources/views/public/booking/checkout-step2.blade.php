@@ -1,0 +1,1 @@
+{{-- Bước 2: nhập thông tin khách (tên, email, số điện thoại) --}}

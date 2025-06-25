@@ -1,0 +1,1 @@
+{{-- Thông tin partner, logo, AM thông tin --}}

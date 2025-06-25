@@ -1,0 +1,1 @@
+{{-- Chi tiết chính sách thanh toán --}}
