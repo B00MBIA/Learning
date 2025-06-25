@@ -1,1 +1,1 @@
-{{-- Tạo phòng cho khách sạn --}}
+{{-- Form thêm loại phòng mới --}}
